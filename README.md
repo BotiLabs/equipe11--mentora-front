@@ -1,4 +1,4 @@
-# hackboticario
+# Mentora - Grupo 11
 
 ## Project setup
 ```
